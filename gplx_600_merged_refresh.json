@@ -2437,7 +2437,7 @@
     "options": {
       "A": "Cho xe chạy thật nhanh qua vũng nước.",
       "B": "Giảm tốc độ cho xe chạy chậm qua vũng nước.",
-      "C": "Giảm tốc độ cho xe chạy qua làn đường dành cho mô tô để tránh vũng nước. Câu 187. Người lái xe không điều khiển xe đi đúng làn đường quy định, phóng nhanh, vượt ẩu, vượt đèn đỏ, đi vào đường cấm được coi là hành vi"
+      "C": "Giảm tốc độ cho xe chạy qua làn đường dành cho mô tô để tránh vũng nước."
     },
     "correct_option": "B",
     "correct_answer": "Giảm tốc độ cho xe chạy chậm qua vũng nước.",
